@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.home-header{
+    @apply border-t-2 border-slate-700
+}
+
+/* customCarouselStyles.css */
+.react-multiple-carousel__arrow--left,
+.react-multiple-carousel__arrow--right {
+  z-index: 10; /* Set a high z-index value */   
+}
+
+.active{
+  @apply text-cyan-400
+}

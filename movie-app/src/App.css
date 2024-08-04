@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+.slick-dots li button:before {
+    color: red; /* Change this to your desired color */
+  }
+  
+  /* Change the color of the active dot */
+  .slick-dots li.slick-active button:before {
+    color: blue; /* Change this to your desired active dot color */
+  }
+
+  /* .button-rating{
+    @apply  px-2 py-1 text-base flex gap-2 items-center border-[2px] border-white hover:border-sky-400 m-3 rounded-full w-full text-center hover:text-sky-400
+  } */
+
+
